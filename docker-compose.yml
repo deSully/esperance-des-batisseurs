@@ -13,6 +13,8 @@ services:
       - ./wordpress-files:/var/www/html  # Mount local wordpress-files directory
     depends_on:
       - db
+    networks:
+      - eb-network
 
   db:
     image: mysql:8.0
@@ -25,6 +27,8 @@ services:
     volumes:
       - db_data:/var/lib/mysql  # Mount MySQL data to keep the database persistent
       - ./backup.sql:/tmp/backup.sql  # Mount backup.sql to import the database
+    networks:
+      - eb-network
 
   nginx:
     image: nginx:latest
@@ -37,7 +41,13 @@ services:
       - /etc/letsencrypt:/etc/letsencrypt:ro
     depends_on:
       - wordpress
+    networks:
+        - eb-network
 
 
 volumes:
   db_data:  # Declare volume for MySQL data
+
+networks:
+  eb-network:
+    driver: bridge
