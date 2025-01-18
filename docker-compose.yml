@@ -24,6 +24,7 @@ services:
       MYSQL_PASSWORD: $MYSQL_PASSWORD
     volumes:
       - db_data:/var/lib/mysql  # Mount MySQL data to keep the database persistent
+      - ./backup.sql:/tmp/backup.sql  # Mount backup.sql to import the database
 
   nginx:
     image: nginx:latest
