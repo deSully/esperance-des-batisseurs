@@ -1,0 +1,251 @@
+{
+    "version": "0.4",
+    "title": "Section &#8211; Pre Footer",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "22aa1a70",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "structure": "20",
+                "background_background": "gradient",
+                "background_color_stop": {
+                    "unit": "%",
+                    "size": 50,
+                    "sizes": []
+                },
+                "background_color_b_stop": {
+                    "unit": "%",
+                    "size": 50,
+                    "sizes": []
+                },
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 90,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary",
+                    "background_color_b": "globals\/colors?id=secondary"
+                },
+                "flex_direction": "row",
+                "flex_align_items": "stretch",
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "56d8705b",
+                    "settings": {
+                        "_column_size": 50,
+                        "width": {
+                            "size": 50,
+                            "unit": "%"
+                        },
+                        "background_background": "classic",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=primary"
+                        },
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "7b4ce52a",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "icon icon-Consultancy",
+                                    "library": "ekiticons"
+                                },
+                                "icon_text": "1",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "icon_position": "left",
+                                "heading": "Our Construction team",
+                                "sub_heading": "",
+                                "description": "<p>Voluptate velit esse cillum dolore eu fugiat nulla pariatur.<\/p>",
+                                "link_type": "button",
+                                "button_text": "Find Team",
+                                "info_box_bg_background": "classic",
+                                "info_box_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "icon_color_normal": "#FFFFFF",
+                                "icon_bg_color_normal": "#FF9D20",
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "title_color": "#FF9D20",
+                                "description_color": "#FFFFFF",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Roboto",
+                                "description_typography_font_weight": "400",
+                                "button_size": "sm",
+                                "button_bg_color_normal": "#FF9D20",
+                                "button_text_color_hover": "#FF9D20",
+                                "button_bg_color_hover": "#FFFFFF",
+                                "__globals__": {
+                                    "icon_color_normal": "globals\/colors?id=8054e71",
+                                    "icon_bg_color_normal": "globals\/colors?id=secondary",
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "description_color": "globals\/colors?id=8054e71",
+                                    "description_typography_typography": "globals\/typography?id=text",
+                                    "button_bg_color_normal": "globals\/colors?id=secondary",
+                                    "button_bg_color_hover": "globals\/colors?id=8054e71",
+                                    "button_text_color_hover": "globals\/colors?id=primary",
+                                    "info_box_bg_color": "",
+                                    "button_text_color_normal": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=8c24d0e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pp-info-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "1da1aa7f",
+                    "settings": {
+                        "_column_size": 50,
+                        "width": {
+                            "size": 50,
+                            "unit": "%"
+                        },
+                        "background_background": "classic",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=secondary"
+                        },
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "184a2c80",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "icon icon-comment2",
+                                    "library": "ekiticons"
+                                },
+                                "icon_text": "1",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "icon_position": "left",
+                                "heading": "Call Us for Any Questions",
+                                "sub_heading": "",
+                                "description": "<h3>(0761) 654-123987<\/h3>Call us Toll Free - Open 24 Hours a Day",
+                                "button_text": "Get Started",
+                                "info_box_bg_background": "classic",
+                                "info_box_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "icon_color_normal": "#FFFFFF",
+                                "icon_bg_color_normal": "#FF9D20",
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "title_color": "#FF9D20",
+                                "description_color": "#FFFFFF",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Roboto",
+                                "description_typography_font_weight": "400",
+                                "button_bg_color_normal": "#FF9D20",
+                                "button_text_color_hover": "#FF9D20",
+                                "button_bg_color_hover": "#FFFFFF",
+                                "__globals__": {
+                                    "icon_color_normal": "globals\/colors?id=8054e71",
+                                    "icon_bg_color_normal": "globals\/colors?id=primary",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=8054e71",
+                                    "description_typography_typography": "globals\/typography?id=text",
+                                    "button_bg_color_normal": "globals\/colors?id=primary",
+                                    "button_bg_color_hover": "globals\/colors?id=8054e71",
+                                    "button_text_color_hover": "globals\/colors?id=primary",
+                                    "info_box_bg_color": "",
+                                    "title_typography_typography": "globals\/typography?id=8c24d0e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pp-info-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

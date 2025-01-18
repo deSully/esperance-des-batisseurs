@@ -1,0 +1,406 @@
+{
+    "version": "0.4",
+    "title": "Contact",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4b216c90",
+            "settings": {
+                "content_width": "full",
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "736fab8d",
+                    "settings": {
+                        "address": "London Eye, London, United Kingdom",
+                        "zoom": {
+                            "unit": "px",
+                            "size": 15,
+                            "sizes": []
+                        },
+                        "height": {
+                            "unit": "px",
+                            "size": 400,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "google_maps",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "36d7c72c",
+            "settings": {
+                "structure": "21",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "10",
+                    "bottom": "100",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "flex_direction": "row",
+                "flex_align_items": "stretch",
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "5ba00be0",
+                    "settings": {
+                        "_column_size": 33,
+                        "width": {
+                            "size": 50,
+                            "unit": "%"
+                        },
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "2180b769",
+                            "settings": {
+                                "title": "Contact Info",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=8c24d0e",
+                                    "title_color": "globals\/colors?id=e24e8d2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "61a4962",
+                            "settings": {
+                                "editor": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\u00a0<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3e8c27e",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "title_text": "BWI Office",
+                                "description_text": "99 S.t Jomblo Park BWI 28292. Indonesia 63545",
+                                "position": "left",
+                                "title_size": "h5",
+                                "text_align": "left",
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=8c24d0e",
+                                    "description_typography_typography": "globals\/typography?id=6435708",
+                                    "title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6a13a666",
+                            "settings": {
+                                "title": "(0761) 654-123987",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=017eaa2",
+                                    "title_color": "globals\/colors?id=e24e8d2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "650cb784",
+                            "settings": {
+                                "text": "Divider",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=6e52941"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ca834cb",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "title_text": "SDA Office",
+                                "description_text": "99 S.t Jomblo Park BWI 28292. Indonesia 63545\n",
+                                "position": "left",
+                                "title_size": "h5",
+                                "text_align": "left",
+                                "__globals__": {
+                                    "description_typography_typography": "globals\/typography?id=6435708",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=8c24d0e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "43ee6d91",
+                            "settings": {
+                                "title": "(0761) 654-123987",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=017eaa2",
+                                    "title_color": "globals\/colors?id=e24e8d2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2e3eabfe",
+                            "settings": {
+                                "text": "Divider",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=6e52941"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "3adc6f28",
+                    "settings": {
+                        "_column_size": 66,
+                        "width": {
+                            "size": 50,
+                            "unit": "%"
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "80",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "2e9ea8b4",
+                            "settings": {
+                                "title": "Let's Talk",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=8c24d0e",
+                                    "title_color": "globals\/colors?id=e24e8d2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "75437085",
+                            "settings": {
+                                "title": "Meet us & we can help you",
+                                "title_color": "#000000",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": "globals\/typography?id=fe69d00"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7975778f",
+                            "settings": {
+                                "mf_form_id": "1650***1705919307222"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "metform",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2365a319",
+                            "settings": {
+                                "editor": "<p>Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days.<\/p><p>We are open from 8am \u2014 5pm week days.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "363a7e29",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "50",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "flex_direction": "row",
+                "flex_align_items": "stretch",
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7b2abfd2",
+                    "settings": {
+                        "_column_size": 100,
+                        "width": {
+                            "size": null,
+                            "unit": "%"
+                        },
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 0
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1acc1034",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 83,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-1b.png"
+                                    },
+                                    {
+                                        "id": 84,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-2b.png"
+                                    },
+                                    {
+                                        "id": 85,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-3b.png"
+                                    },
+                                    {
+                                        "id": 86,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-4b.png"
+                                    },
+                                    {
+                                        "id": 87,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-5b.png"
+                                    },
+                                    {
+                                        "id": 88,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-6b.png"
+                                    }
+                                ],
+                                "thumbnail_size": "tk_preview",
+                                "slides_to_show": "4",
+                                "navigation": "none"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37d69964",
+                            "settings": {
+                                "editor": "<p>Trusted by <strong>over 9.000<\/strong> companies worldwide<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e24e8d2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

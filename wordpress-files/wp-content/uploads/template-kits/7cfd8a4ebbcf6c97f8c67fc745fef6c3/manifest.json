@@ -1,0 +1,1495 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Atos - Construction Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.1.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/mykits.themegum.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Header",
+            "screenshot": "screenshots\/section-header.jpg",
+            "source": "templates\/section-header.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/section-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Pre Footer",
+            "screenshot": "screenshots\/section-pre-footer.jpg",
+            "source": "templates\/section-pre-footer.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/section-pre-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Footer",
+            "screenshot": "screenshots\/section-footer.jpg",
+            "source": "templates\/section-footer.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/section-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Page Heading",
+            "screenshot": "screenshots\/section-page-heading.png",
+            "source": "templates\/section-page-heading.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/section-page-heading\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 1",
+            "screenshot": "screenshots\/homepage-1.jpg",
+            "source": "templates\/homepage-1.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/homepage-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.jpg",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/homepage-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 3",
+            "screenshot": "screenshots\/homepage-3.jpg",
+            "source": "templates\/homepage-3.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/homepage-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Single",
+            "screenshot": "screenshots\/project-single.jpg",
+            "source": "templates\/project-single.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/project-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Single",
+            "screenshot": "screenshots\/service-single.jpg",
+            "source": "templates\/service-single.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/service-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Partners",
+            "screenshot": "screenshots\/our-partners.jpg",
+            "source": "templates\/our-partners.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/our-partners\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "History",
+            "screenshot": "screenshots\/history.jpg",
+            "source": "templates\/history.json",
+            "preview_url": "http:\/\/mykits.themegum.com\/atos\/template-kit\/history\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.9",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.23",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.6.9",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Press Elements - Widgets for Elementor",
+            "version": "1.7.2",
+            "file": "press-elements\/press-elements.php",
+            "author": "Press Elements"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/section-header.json",
+                    "name": "Section - Header"
+                },
+                {
+                    "source": "templates\/section-footer.json",
+                    "name": "Section - Footer"
+                }
+            ],
+            "filesize": 1409,
+            "dimensions": [
+                142,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-08.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-08-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-page-heading.json",
+                    "name": "Section - Page Heading"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 164387,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-sketching-house-plan-blueprint-PCF3P2V"
+        },
+        {
+            "filename": "hero-05.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-05-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                }
+            ],
+            "filesize": 284137,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/talking-positive-builders-MGWEKQV"
+        },
+        {
+            "filename": "hero-02.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-02-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 144422,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architects-are-using-drawing-pencils-on-the-other--PYSLVMQ"
+        },
+        {
+            "filename": "hero-03.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-03-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 185327,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-engineers-holding-blueprints-ZHPYTRN"
+        },
+        {
+            "filename": "hero-04-1.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-04-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 209466,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-dressed-in-shirt-orange-work-vest-and-helmet-m-5DKNX2C"
+        },
+        {
+            "filename": "hero-01.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 225186,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-factory-employees-VYFC4LK"
+        },
+        {
+            "filename": "hero-06.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-06-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 218822,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/renovation-cocnept-EC4BS4F"
+        },
+        {
+            "filename": "hero-07.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-07-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 425690,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/project-construction-blueprints-and-engineering-to-QXZRYBC"
+        },
+        {
+            "filename": "dot-map.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dot-map-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                }
+            ],
+            "filesize": 64280,
+            "dimensions": [
+                1883,
+                1060
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-09-1.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-09-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                }
+            ],
+            "filesize": 160384,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crane-is-used-in-the-construction-PTW7MHS"
+        },
+        {
+            "filename": "cheerful-woman-painting-the-walls-of-new-home-ren-2021-12-09-07-27-07-utc.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/cheerful-woman-painting-the-walls-of-new-home-ren-2021-12-09-07-27-07-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 152839,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-woman-painting-the-walls-of-new-home-reno-6R2S87F"
+        },
+        {
+            "filename": "hero-10.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-10-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 302191,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-of-building-H8EYM6F"
+        },
+        {
+            "filename": "hero-11-1.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-11-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 257853,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-site-PB95VWH"
+        },
+        {
+            "filename": "hero-12-1.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-12-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 187742,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-of-the-subway-P3NBC3U"
+        },
+        {
+            "filename": "architect-planning-new-construction-project-2022-06-28-14-05-17-utc.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/architect-planning-new-construction-project-2022-06-28-14-05-17-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 205824,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-planning-new-construction-project-FUQST7Z"
+        },
+        {
+            "filename": "industrial-portrait-of-male-and-female-constructio-2022-01-13-23-22-09-utc.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/industrial-portrait-of-male-and-female-constructio-2022-01-13-23-22-09-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 202349,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/industrial-portrait-of-male-and-female-constructio-5HYWGS3"
+        },
+        {
+            "filename": "testimony-3.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/testimony-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 22970,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-businessman-PMDPLPH"
+        },
+        {
+            "filename": "testimony-2.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/testimony-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 18648,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-meeting-and-teamwork-by-business-people-UAP7FZD"
+        },
+        {
+            "filename": "testimony-1.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/testimony-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11627,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-portrait-P4GGCJP"
+        },
+        {
+            "filename": "dummy-logo-1b.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-1b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 8551,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-2b.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-2b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 8136,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-3b.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-3b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 9054,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-4b.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-4b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 10134,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-5b.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-5b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 8953,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-6b.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-6b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-partners.json",
+                    "name": "Our Partners"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 10119,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-14.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-14-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 185505,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/engineers-discussing-project-U3XYCEC"
+        },
+        {
+            "filename": "professional.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/professional.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 176436,
+            "dimensions": [
+                712,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-male-construction-businessman-with-hi-VUBXLLD"
+        },
+        {
+            "filename": "professional-builder-using-a-level-spirit-for-meas-2021-09-03-21-03-28-utc.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/professional-builder-using-a-level-spirit-for-meas-2021-09-03-21-03-28-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-single.json",
+                    "name": "Service Single"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 267008,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-builder-using-a-level-spirit-for-meas-4M2PKLM"
+        },
+        {
+            "filename": "hero-09.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-09-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 381391,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crane-is-used-in-the-construction-PTW7MHS"
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/transparent.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1157,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "team-img-1.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/team-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 45253,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-construction-engineer-architect-business-BJZEMTH"
+        },
+        {
+            "filename": "team-img-2.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/team-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 52041,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-factory-employees-VYFC4LK"
+        },
+        {
+            "filename": "team-img-3.jpg",
+            "thumbnail_url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/team-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 52610,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-factory-employees-VYFC4LK"
+        }
+    ]
+}

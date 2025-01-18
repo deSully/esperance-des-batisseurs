@@ -1,0 +1,807 @@
+{
+    "version": "0.4",
+    "title": "Projects",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "28124e1c",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e24e8d2",
+                    "background_overlay_color": "globals\/colors?id=secondary"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "10",
+                    "bottom": "100",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "10",
+                    "bottom": "50",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "background_slideshow_background_size": "cover",
+                "background_slideshow_background_position": "center center",
+                "background_slideshow_ken_burns": "yes",
+                "background_overlay_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-08.jpg",
+                    "id": 144,
+                    "alt": "",
+                    "source": "library",
+                    "size": ""
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "flex_direction": "row",
+                "flex_align_items": "stretch",
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7f366139",
+                    "settings": {
+                        "_column_size": 100,
+                        "width": {
+                            "size": null,
+                            "unit": "%"
+                        },
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "60cc730e",
+                            "settings": {
+                                "heading_tag": "h1",
+                                "page_custom_link": "none"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "page-title",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "121f3a3f",
+                            "settings": {
+                                "_column_size": 100,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 0
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "11ee7b92",
+                                    "settings": {
+                                        "title": "Home \/",
+                                        "header_size": "h6",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "4",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "auto",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=8054e71",
+                                            "typography_typography": "globals\/typography?id=text"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4ed6afc7",
+                                    "settings": {
+                                        "heading_tag": "h6",
+                                        "_element_width": "auto",
+                                        "__globals__": {
+                                            "title_typography_typography": "globals\/typography?id=text",
+                                            "title_color": "globals\/colors?id=8054e71"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "page-title",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1d513b69",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "10",
+                    "bottom": "100",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "37006967",
+                    "settings": {
+                        "structure": "30",
+                        "flex_direction": "row",
+                        "flex_align_items": "stretch",
+                        "flex_gap": {
+                            "size": 0,
+                            "column": "0",
+                            "row": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5d2be80f",
+                            "settings": {
+                                "_column_size": 33,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "9682d68",
+                                    "settings": {
+                                        "icon_type": "image",
+                                        "icon_image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "title_front": "",
+                                        "description_front": "",
+                                        "title_html_tag_front": "h5",
+                                        "select_icon_back": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "icon_text_back": "1",
+                                        "title_back": "Commercial Building",
+                                        "description_back": "building, design",
+                                        "title_html_tag_back": "h5",
+                                        "link_type": "title",
+                                        "flipbox_button_text": "Get Started",
+                                        "padding_front": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "background_front_background": "classic",
+                                        "background_front_image": {
+                                            "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-10.jpg",
+                                            "id": 147
+                                        },
+                                        "background_front_position": "center center",
+                                        "background_front_repeat": "no-repeat",
+                                        "background_front_size": "cover",
+                                        "overlay_front_background": "classic",
+                                        "overlay_front_color_b": "",
+                                        "background_back_background": "classic",
+                                        "__globals__": {
+                                            "overlay_front_color": "",
+                                            "overlay_front_color_b": "",
+                                            "background_back_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "pp-flipbox",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "424049e1",
+                            "settings": {
+                                "_column_size": 33,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "42716fd6",
+                                    "settings": {
+                                        "icon_type": "image",
+                                        "icon_image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "title_front": "",
+                                        "description_front": "",
+                                        "title_html_tag_front": "h5",
+                                        "select_icon_back": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "icon_text_back": "1",
+                                        "title_back": "Building Construction",
+                                        "description_back": "building, design",
+                                        "title_html_tag_back": "h5",
+                                        "link_type": "title",
+                                        "flipbox_button_text": "Get Started",
+                                        "padding_front": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "background_front_background": "classic",
+                                        "background_front_image": {
+                                            "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-11-1.jpg",
+                                            "id": 1616,
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "background_front_position": "center center",
+                                        "background_front_repeat": "no-repeat",
+                                        "background_front_size": "cover",
+                                        "overlay_front_background": "classic",
+                                        "overlay_front_color_b": "",
+                                        "background_back_background": "classic",
+                                        "__globals__": {
+                                            "overlay_front_color": "",
+                                            "overlay_front_color_b": "",
+                                            "background_back_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "pp-flipbox",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "20386a84",
+                            "settings": {
+                                "_column_size": 33,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "27d7dbbe",
+                                    "settings": {
+                                        "icon_type": "image",
+                                        "icon_image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "title_front": "",
+                                        "description_front": "",
+                                        "title_html_tag_front": "h5",
+                                        "select_icon_back": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "icon_text_back": "1",
+                                        "title_back": "Commercial Building",
+                                        "description_back": "building, design",
+                                        "title_html_tag_back": "h5",
+                                        "link_type": "title",
+                                        "flipbox_button_text": "Get Started",
+                                        "padding_front": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "background_front_background": "classic",
+                                        "background_front_image": {
+                                            "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/hero-12-1.jpg",
+                                            "id": 1612,
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "background_front_position": "center center",
+                                        "background_front_repeat": "no-repeat",
+                                        "background_front_size": "cover",
+                                        "overlay_front_background": "classic",
+                                        "overlay_front_color_b": "",
+                                        "background_back_background": "classic",
+                                        "__globals__": {
+                                            "overlay_front_color": "",
+                                            "overlay_front_color_b": "",
+                                            "background_back_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "pp-flipbox",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "1587ac0a",
+                    "settings": {
+                        "structure": "30",
+                        "flex_direction": "row",
+                        "flex_align_items": "stretch",
+                        "flex_gap": {
+                            "size": 0,
+                            "column": "0",
+                            "row": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "57b2a5dc",
+                            "settings": {
+                                "_column_size": 33,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "48d63e0c",
+                                    "settings": {
+                                        "icon_type": "image",
+                                        "icon_image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "title_front": "",
+                                        "description_front": "",
+                                        "title_html_tag_front": "h5",
+                                        "select_icon_back": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "icon_text_back": "1",
+                                        "title_back": "Architecture",
+                                        "description_back": "building, design",
+                                        "title_html_tag_back": "h5",
+                                        "link_type": "title",
+                                        "flipbox_button_text": "Get Started",
+                                        "padding_front": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "background_front_background": "classic",
+                                        "background_front_image": {
+                                            "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/architect-planning-new-construction-project-2022-06-28-14-05-17-utc.jpg",
+                                            "id": 1575,
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "background_front_position": "center center",
+                                        "background_front_repeat": "no-repeat",
+                                        "background_front_size": "cover",
+                                        "overlay_front_background": "classic",
+                                        "overlay_front_color_b": "",
+                                        "background_back_background": "classic",
+                                        "__globals__": {
+                                            "overlay_front_color": "",
+                                            "overlay_front_color_b": "",
+                                            "background_back_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "pp-flipbox",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "3ef22abe",
+                            "settings": {
+                                "_column_size": 33,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5bfeb958",
+                                    "settings": {
+                                        "icon_type": "image",
+                                        "icon_image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "title_front": "",
+                                        "description_front": "",
+                                        "title_html_tag_front": "h5",
+                                        "select_icon_back": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "icon_text_back": "1",
+                                        "title_back": "Building Construction",
+                                        "description_back": "building, design",
+                                        "title_html_tag_back": "h5",
+                                        "link_type": "title",
+                                        "flipbox_button_text": "Get Started",
+                                        "padding_front": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "background_front_background": "classic",
+                                        "background_front_image": {
+                                            "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/industrial-portrait-of-male-and-female-constructio-2022-01-13-23-22-09-utc.jpg",
+                                            "id": 1585,
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "background_front_position": "center center",
+                                        "background_front_repeat": "no-repeat",
+                                        "background_front_size": "cover",
+                                        "overlay_front_background": "classic",
+                                        "overlay_front_color_b": "",
+                                        "background_back_background": "classic",
+                                        "__globals__": {
+                                            "overlay_front_color": "",
+                                            "overlay_front_color_b": "",
+                                            "background_back_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "pp-flipbox",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "4eca8bcd",
+                            "settings": {
+                                "_column_size": 33,
+                                "width": {
+                                    "size": null,
+                                    "unit": "%"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4516612f",
+                                    "settings": {
+                                        "icon_type": "image",
+                                        "icon_image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "title_front": "",
+                                        "description_front": "",
+                                        "title_html_tag_front": "h5",
+                                        "select_icon_back": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "icon_text_back": "1",
+                                        "title_back": "Inside Renovation",
+                                        "description_back": "building, design",
+                                        "title_html_tag_back": "h5",
+                                        "link_type": "title",
+                                        "flipbox_button_text": "Get Started",
+                                        "padding_front": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "background_front_background": "classic",
+                                        "background_front_image": {
+                                            "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/cheerful-woman-painting-the-walls-of-new-home-ren-2021-12-09-07-27-07-utc.jpg",
+                                            "id": 1570,
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "background_front_position": "center center",
+                                        "background_front_repeat": "no-repeat",
+                                        "background_front_size": "cover",
+                                        "overlay_front_background": "classic",
+                                        "overlay_front_color_b": "",
+                                        "background_back_background": "classic",
+                                        "__globals__": {
+                                            "overlay_front_color": "",
+                                            "overlay_front_color_b": "",
+                                            "background_back_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "pp-flipbox",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "71873857",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "50",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "flex_direction": "row",
+                "flex_align_items": "stretch",
+                "flex_gap": {
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "68467bca",
+                    "settings": {
+                        "_column_size": 100,
+                        "width": {
+                            "size": null,
+                            "unit": "%"
+                        },
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 0
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1b19fee8",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 83,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-1b.png"
+                                    },
+                                    {
+                                        "id": 84,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-2b.png"
+                                    },
+                                    {
+                                        "id": 85,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-3b.png"
+                                    },
+                                    {
+                                        "id": 86,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-4b.png"
+                                    },
+                                    {
+                                        "id": 87,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-5b.png"
+                                    },
+                                    {
+                                        "id": 88,
+                                        "url": "http:\/\/mykits.themegum.com\/atos\/wp-content\/uploads\/sites\/3\/2021\/03\/dummy-logo-6b.png"
+                                    }
+                                ],
+                                "thumbnail_size": "tk_preview",
+                                "slides_to_show": "4",
+                                "navigation": "none"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6aaf6788",
+                            "settings": {
+                                "editor": "<p>Trusted by <strong>over 9.000<\/strong> companies worldwide<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e24e8d2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
